@@ -278,7 +278,7 @@
     (property "Footprint" "Diode_THT:D_T-1_P5.08mm_Horizontal" (id 2) (at 116.84 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (id 3) (at 116.84 104.14 0)
+    (property "Datasheet" "https://www.mouser.com/datasheet/2/723/C5SMF_RJF_RJE_GJF_GJE_BJF_BJE_1240-2256911.pdf" (id 3) (at 116.84 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 0ca928a5-4757-4bf3-900d-0130308b4e84))
