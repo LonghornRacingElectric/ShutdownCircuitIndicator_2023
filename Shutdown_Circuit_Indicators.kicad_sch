@@ -307,11 +307,11 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid de6e164d-189b-467f-851b-5fff0c475288)
     (property "Reference" "R1" (id 0) (at 113.03 90.17 90))
-    (property "Value" "200" (id 1) (at 113.03 92.71 90))
+    (property "Value" "400" (id 1) (at 113.03 92.71 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (id 2) (at 113.03 98.298 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (id 3) (at 113.03 96.52 0)
+    (property "Datasheet" "https://www.mouser.com/datasheet/2/427/pat-1764170.pdf" (id 3) (at 113.03 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 52891fd9-c9e7-40b8-a56f-43c9a273efe7))
@@ -345,7 +345,7 @@
       (reference "D1") (unit 1) (value "LED") (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal")
     )
     (path "/de6e164d-189b-467f-851b-5fff0c475288"
-      (reference "R1") (unit 1) (value "200") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+      (reference "R1") (unit 1) (value "400") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/ee9190c7-2ff3-4b02-a619-4377fc17a2df"
       (reference "TP1") (unit 1) (value "V_source-") (footprint "TestPoint:TestPoint_Loop_D2.50mm_Drill1.0mm")
